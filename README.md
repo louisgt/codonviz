@@ -1,2 +1,2 @@
 # codonviz
-Genetic code network analysis and visualization
+Genetic code network analysis and visualization using visNetwork.
